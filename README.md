@@ -127,8 +127,19 @@ adar-emitter-identification-ew/
 ![System Architecture](architecture.png)
 ## Prototype Demonstration (Work in Progress)
 
+The following screenshots illustrate the initial radar signal simulation environment and system interface used during development.
+
 ### Simulation Interface
 ![Simulation](stimulation.jpeg)
 
 ### System Prototype
 ![Prototype](stimulation2.jpeg)
+
+## Results
+
+The system is currently under development with preliminary validation performed on simulated radar pulse datasets. Initial experiments demonstrate the feasibility of emitter clustering and parameter estimation under noisy conditions. Detailed quantitative evaluation will be included in future updates.
+
+**Status:** 🚧 Work in Progress
+
+notebooks/demo.ipynb
+
