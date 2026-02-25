@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+hdbscan
+matplotlib
+pyarrow
