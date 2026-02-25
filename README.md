@@ -123,3 +123,5 @@ adar-emitter-identification-ew/
 ├── src/
 ├── notebooks/
 └── results/
+
+![System Architecture](architecture.png)
