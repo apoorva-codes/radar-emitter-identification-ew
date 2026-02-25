@@ -125,3 +125,8 @@ adar-emitter-identification-ew/
 └── results/
 
 ![System Architecture](architecture.png)
+## Prototype Demonstration (Work in Progress)
+
+![Simulation](simulation1.jpeg)
+
+![Stimulation](simulation2.jpeg)
