@@ -141,5 +141,10 @@ The system is currently under development with preliminary validation performed 
 
 **Status:** 🚧 Work in Progress
 
-notebooks/demo.ipynb
+## Demonstration Notebook
+
+A sample implementation and experimental workflow is available in the Jupyter notebook:
+
+📘 [View Notebook](notebooks/130226.ipynb)
+
 
